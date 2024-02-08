@@ -4,7 +4,7 @@
 
 The Vehicle Stock Management System is a Java-based application that allows users to manage and track the stock of various vehicles.
 
-**Features*
+**Features**
 
 Add new vehicles to the stock
 Specify vehicle type (Car, MotorBike, Bike)
